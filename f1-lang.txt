@@ -2,3 +2,6 @@ Java
 CPP
 C
 Oracle
+Python
+AWS
+Terraform
